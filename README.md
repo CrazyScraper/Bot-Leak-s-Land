@@ -201,4 +201,4 @@ Supprime un mot de la liste des mots exclus.
 
 ## 🚀 Comment obtenir le bot ?
 
-➡️ https://t.me/+idYEvIRMSQRhOWFk
+➡️ https://t.me/botleaksland
