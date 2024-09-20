@@ -201,4 +201,6 @@ Supprime un mot de la liste des mots exclus.
 
 ## 🚀 Comment obtenir le bot ?
 
-➡️ https://t.me/botleaksland
+➡️ [Telegram](https://t.me/botleaksland)
+
+➡️ [Whop](https://whop.com/leak-s-land/)
